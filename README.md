@@ -1,1 +1,1 @@
-# All of my projects that I'm either proud of or worked really hard on, sometimes both!
+# All of my projects that i'm peroud of that I think display my competency in computer science.
